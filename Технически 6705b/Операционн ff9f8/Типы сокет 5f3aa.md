@@ -2,7 +2,7 @@
 
 ## Ссылки
 
-1. ****select / poll / epoll: практическая разница (2018)****
+1. select / poll / epoll: практическая разница (2018).
 
 [select / poll / epoll: практическая разница](https://habr.com/ru/company/infopulse/blog/415259/)
 

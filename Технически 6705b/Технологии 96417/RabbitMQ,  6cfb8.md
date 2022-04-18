@@ -2,11 +2,11 @@
 
 ## Ссылки
 
-1. ****RabbitMQ. Часть 1. Introduction. Erlang, AMQP (2020)****
+1. RabbitMQ. Часть 1. Introduction. Erlang, AMQP (2020);
 
 [RabbitMQ. Часть 1. Introduction. Erlang, AMQP](https://habr.com/ru/post/488654/)
 
-1. ****RabbitMQ против Kafka: два разных подхода к обмену сообщениями (2018)****
+1. RabbitMQ против Kafka: два разных подхода к обмену сообщениями (2018).
 
 [RabbitMQ против Kafka: два разных подхода к обмену сообщениями](https://habr.com/ru/company/itsumma/blog/416629/)
 
@@ -58,7 +58,7 @@
 
 ![iqneq-_gmg-yq8bkk2-3_-mkvky.jpeg](RabbitMQ,%20%206cfb8/iqneq-_gmg-yq8bkk2-3_-mkvky.jpeg)
 
-### ****Где используется RabbitMQ?****
+### Где используется RabbitMQ?
 
 В контексте микросервисов протокол **AMQP** и его реализацию в **RabbitMQ** часто используют для **асинхронного взаимодействия** между сервисами.
 
