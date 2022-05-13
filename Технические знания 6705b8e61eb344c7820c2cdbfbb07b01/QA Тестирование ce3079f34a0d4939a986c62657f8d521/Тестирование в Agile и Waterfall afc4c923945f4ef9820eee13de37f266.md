@@ -28,4 +28,8 @@
 
 ### Каскадная модель (Waterfall)
 
+[Waterfall](../%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20b4ef0d8a7e1f41b1a0dcaaa09486a0a8/Waterfall%2089de18e8f84140ea9dee7d9776fdadd4.md)
+
 ### Agile
+
+[Agile](../%D0%98%D0%B4%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20b4ef0d8a7e1f41b1a0dcaaa09486a0a8/Agile%2028e3aa4ffc4d49c1a1d86da000faee82.md)
